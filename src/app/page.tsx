@@ -1,4 +1,5 @@
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
-  return <h1 className="text-red-600"> Theplayer</h1>;
+  return <Button> naughty</Button>
 }
